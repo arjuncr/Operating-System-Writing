@@ -1,0 +1,8 @@
+
+default=0
+timeout=0
+
+minimal os
+kernel /boot/kernel.elf
+
+
